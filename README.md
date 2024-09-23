@@ -13,9 +13,7 @@
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://rustamov_006.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamron-rustamov-57b1052b2)  [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:rvkamronbek@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/krv006)
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://dilshod_absaitov.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-absaitov/)  [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:absaitovdev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/dilshod3239/)
 
 
 # 💻 Tech Stack:
@@ -54,19 +52,19 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krv006&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=dilshodev-py&theme=radical">
 <br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krv006&theme=tokyonight">
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshodev-py&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=krv006&theme=tokyonight&hide_border=true" alt="Kamronbek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodev-py&theme=tokyonight&hide_border=true" alt="Dilshodbek">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=krv006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=dilshodev-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krv006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodev-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{krv006}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{dilshodev-py}/count.svg"/>
 </p>
